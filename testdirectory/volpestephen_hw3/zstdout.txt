@@ -1,0 +1,4 @@
+UTILS: open the logfile 'zlog.txt'
+UTILS: open succeeded for 'zlog.txt'
+UTILS: open the input file '../../thisinput.txt'
+UTILS: open failed for '../../thisinput.txt'
